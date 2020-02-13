@@ -25,9 +25,11 @@ solutions and is tightly integrated into Pimcore core functionality.
 - Default integration to external newsletter systems like MailChimp
 - Rest API for integration of external systems for data import or data export
 
-For a first impression have a look at our [Advanced Demo](https://demo-advanced.pimcore.org/). For more complex solutions
-have a look at our [case studies](https://pimcore.com/en/customers).
+For a first impression have a look at our [Demo](https://demo.pimcore.fun/admin/). 
+Username: admin
+Password: demo
 
+For examples of more complex solutions have a look at our [case studies](https://pimcore.com/en/customers?industry=&capability=7685).
 
 ## Working with Customer Management Framework 
 
